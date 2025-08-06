@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871659345456",
+    "project_id": "indriveclone-464e5",
+    "storage_bucket": "indriveclone-464e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871659345456:android:ada35e5f2fc513b864fff5",
+        "android_client_info": {
+          "package_name": "com.appswallet.indriveclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871659345456-47no8clho9la9sq0p94ddr3tgn96u34b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appswallet.indriveclone",
+            "certificate_hash": "658b018f5cc1b5fed8dc2e19f356efd5df490733"
+          }
+        },
+        {
+          "client_id": "871659345456-b27eor1jac13uehqaj2di38fv1t2fjmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJlZcS7hNcFSuWQOqNcXudyzSTleAdsC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871659345456-b27eor1jac13uehqaj2di38fv1t2fjmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
