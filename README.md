@@ -1,4 +1,4 @@
-## 🚀 Android App Description
+## 🚀 Delivery Tracker App Description
 
 This Android application demonstrates real-time route animation using Google Maps. Built with a modern tech stack including **Kotlin**, **Dagger2**, **MVVM architecture**, **Retrofit**, **Firebase Firestore**, and **Kotlin Coroutines**.
 
